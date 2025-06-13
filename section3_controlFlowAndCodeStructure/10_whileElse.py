@@ -1,3 +1,5 @@
+# while else 文
+
 count = 0
 while count < 5:
     print(count)

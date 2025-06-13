@@ -1,3 +1,5 @@
+# enumerate 関数
+
 for fruit in ['apple', 'banana', 'orange']:
     print(fruit)
     

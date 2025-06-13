@@ -1,3 +1,5 @@
+# for 文と break 文と continue 文
+
 some_list = [1, 2, 3, 4, 5]
 
 #while 文で全部出力する

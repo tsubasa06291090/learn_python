@@ -1,3 +1,5 @@
+# 1行が長くなる時
+
 s = 'aaaaaaaaaaaaaaa' + 'bbbbbbbbbbbb'
 print(s)
 

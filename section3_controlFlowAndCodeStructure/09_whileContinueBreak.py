@@ -1,3 +1,5 @@
+# while 文と continue 文と break 文
+
 count = 0
 while count < 5: #count が 5 未満の時にループ
     print(count)

@@ -1,3 +1,5 @@
+# None を判定する場合
+
 is_empty = None #python では何も入っていないものを None とする。変数宣言はしたいけど、何も入れたくない時に使用
 print(is_empty) 
 print(help(is_empty)) 

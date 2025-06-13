@@ -1,3 +1,5 @@
+# for else 文
+
 for fruit in ['apple', 'banana', 'orange']:
     print(fruit)
 else: #for 文でも else が使える

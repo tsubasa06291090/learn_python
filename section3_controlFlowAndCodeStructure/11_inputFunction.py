@@ -1,3 +1,5 @@
+# input 関数
+
 while True:
     word = input('Enter:') #input: 何か入力したら word 変数に入れる
     if word == 'ok':

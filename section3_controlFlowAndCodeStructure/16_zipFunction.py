@@ -1,3 +1,5 @@
+# zip 関数
+
 days = ['Mon', 'Tue', 'Wed']
 fruits = ['apple', 'banana', 'orange']
 drinks = ['coffee', 'tea', 'beer']

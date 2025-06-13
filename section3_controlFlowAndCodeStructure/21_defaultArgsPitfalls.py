@@ -1,3 +1,5 @@
+# デフォルト引数で気をつけること
+
 def test_func(x, l=[]): #list をデフォルト引数にしない
     l.append(x)
     return l

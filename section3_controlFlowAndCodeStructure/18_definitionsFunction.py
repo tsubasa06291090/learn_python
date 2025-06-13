@@ -1,3 +1,5 @@
+# 関数定義
+
 # say_something() #最初にこうしても定義されてなくて、実行できない
 
 def say_something(): #まず定義してから

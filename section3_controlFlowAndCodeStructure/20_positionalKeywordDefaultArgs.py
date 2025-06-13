@@ -1,3 +1,5 @@
+# 位置引数とキーワード引数とデフォルト引数
+
 def menu(entree):
     print(entree)
     

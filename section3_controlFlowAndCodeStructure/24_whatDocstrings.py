@@ -1,4 +1,4 @@
-# Docstrings 
+# Docstrings とは
 
 def example_func(param1, param2):
     # python の場合、関数の説明は以下のように、関数の中に書く。

@@ -30,8 +30,6 @@ g = tuple(i for i in range(10)) # tuple を () の前に宣言してあげる <-
 print(type(g))
 print(g)
 
-# ========================
-
 # ジェネレーター内包表記
 g = (i for i in range(10) if i % 2 == 0)
 

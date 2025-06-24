@@ -1,7 +1,7 @@
 # ImportError の使い方
 
 try:
-    from lesson_package import utils
+    from section4_module_and_package.lesson_package.tools import utils
 except ImportError:
     from lesson_package.tools import utils
 
